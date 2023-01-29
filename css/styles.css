@@ -1,0 +1,25 @@
+body {
+    background-color: azure;
+}
+
+hr {
+    background-color: azure;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: greenyellow;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+
+h1 {
+    color: cornflowerblue 
+}
+
+h2 {
+    color: cornflowerblue 
+}
+
+h3 {
+    color: cornflowerblue 
+}
